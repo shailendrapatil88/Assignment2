@@ -32,6 +32,16 @@ android {
             applicationIdSuffix ".debug"
         }
     }
+
+    productFlavors{
+        releaseFlavor{
+            applicationId "com.test.assignment2.release"
+        }
+
+        debugFlavor {
+            applicationId "com.test.assignment2.debug"
+        }
+    }
 }
 
 dependencies {
