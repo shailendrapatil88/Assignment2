@@ -1,10 +1,9 @@
 # Assignment2
-Second Assignment
 -----
 In this assignment I have added following items in layout file
-1. Progressbar- To show progress of the http request.
-2. Error message & retry button- this will be shown if internet connection not available, request timeouts or no data found on server.
-3. Spinner, label for transport mode, navigate button- this will be visible if data found.
+* Progressbar- To show progress of the http request.
+* Error message & retry button- this will be shown if internet connection not available, request timeouts or no data found on server.
+* Spinner, label for transport mode, navigate button- this will be visible if data found.
 
 Terms used:
 -----
